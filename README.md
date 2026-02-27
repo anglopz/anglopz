@@ -66,17 +66,6 @@ Clean Architecture · Domain-Driven Design · Hexagonal Architecture
 Event-Driven Systems · Microservices · Serverless-First
 Infrastructure as Code · Zero-Trust Networking · Least-Privilege IAM
 ```
-
----
-
-## Experience
-
-| Period | Role | Company | Sector |
-|--------|------|---------|--------|
-| Sep 2024 – Jan 2026 | Cloud Native Software Engineer | ALTEN | Banking / Fintech |
-| Sep 2023 – Aug 2024 | Junior DevOps Engineer | Capgemini | Automotive (Mercedes-Benz) |
-| Sep 2022 – Aug 2023 | Junior Software Engineer | Deloitte | Retail |
-
 ---
 
 ## Education
